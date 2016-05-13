@@ -1,0 +1,13 @@
+# Site settings
+title: Uproute
+email: marla@uproute.com
+description: > # this means to ignore newlines until "baseurl:"
+  Going away? Wish you were? Search and get inspired by real trip itineraries, experienced by travelers like you. Uproute allows you to use the time that you’ve got to plan your trip more wisely. Search accounts of what people actually did in a destination, according to trip characteristics, traveler profile or both. The result is a plethora of options that are all relevant to you and the type of trip you want to take. Read the whole story for free and find out what others like you did with the same amount of time, in the same destination. Not just where they stayed and ate. Be the first to upload your past trip itinerary to any destination in the world and start connecting with travelers like you!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://uproute.co" # the base hostname & protocol for your site
+twitter_username: uproute
+github_username:  uproute
+
+# Build settings
+markdown: kramdown
+permalinks: pretty

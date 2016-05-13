@@ -1,0 +1,126 @@
+---
+layout: post
+title:  "Girls weekend in Seminyak, Bali"
+date:   2016-04-27 08:13:00 +0800
+categories: bali
+category-name: [Bali]
+tags: [beach, food, relax, bars]
+author: Kate H
+author-username: kate-h
+image: /kate_bali/1.jpg
+rac: no
+permalink: /kate-bali
+---
+
+{% include tags-content.html %}
+
+**The Trip &mdash;** Girls weekend in Seminyak, Bali
+
+**Duration &mdash;** 2 Nights
+
+**Origin &mdash;** Singapore
+
+**Type of Trip&mdash;** {{ tags_content }}
+
+**Trip Dates and Comments &mdash;** February. Whilst technically the "wet season" we had no issues with the weather!
+
+**Mode of Transportation &mdash;** Aeroplane
+
+**Arrival Logistics &mdash;** Landed at Denpasar airport and took a pre-arranged transfer organised through our hotel.
+
+**Cost per Person &mdash;** $250 - $500
+
+**General Route &mdash;** We had three priorities for the weekend - eat well, relax well, and shop well - each of which we excelled in!
+
+**Accommodation &mdash;** The Colony Hotel, Seminyak - an old favourite in a fantastic location. NB: under 16s are not allowed.
+
+**Main Activities &mdash;** Beaches, Food, Relaxing, Bars.
+
+**Food and Drink Highlights &mdash;** Friday night dinner at Motel Mexicola - right around the corner from our hotel, and a great spot for a dance as the night goes on. Saturday (and Sunday) brunch at Sisterfields - great coffee and a "Melbourne-style" menu. Saturday night dinner at Sarong - delicious modern Asian in a beautiful setting.
+
+**Essential Packing for this Trip &mdash;** Swimming costume, and a light weight beach dress to shop in! Also recommend you leave your high heels at home - this is the kind of place you can go out for dinner/dancing in pretty sandals (which are very easy to buy in Bali!) rather than fancy heels.
+
+<hr />
+
+### Our Experience
+
+![Girls weekend in Bali](/img/kate_bali/2.jpg "Girls weekend in Bali")
+
+This was a quick getaway for four girlfriends living in Singapore as a last minute farewell trip. Some quick tips for a successful weekend:
+
+Travel - We booked the KLM flight which departs Singapore at 5:30pm on a Friday and leaves Denpasar at 9:30pm on the Sunday. It's a very affordable flight (about SG$200 if you book early) on a plane suitable for long haul flights, which gives you two full days in Bali without the need to take annual leave.
+
+Accommodation - I couldn't recommend The Colony Hotel more highly (this was our second stay there). This place really seems to cater for girls' weekends, particularly with the no under 16s rule!
+
+![Girls weekend in Bali](/img/kate_bali/3.jpg "Girls weekend in Bali")
+
+Food - great and affordable food is very accessible in Seminyak. A few must visits are:
+
+Cafes:
++ Revolver ($ - in a laneway behind Eat St, best coffee in Seminyak)
++ Sisterfields ($$ - opposite Seminyak Village, great breakfast/brunch/lunch spot with good coffee and cocktails, Aussie owned and free wifi)
++ Grocer and Grind ($$ - right near Sisterfields, contemporary deli style cafe, aussie owned and free wifi)
++ Sea Circus ($$ - trendy cafe, next door to The Colony Hotel on Jalan Kayu Aya, healthy salads, fish etc. and good coffee)
+
+Restaurants:
++ Sardine ($$$ - northern end of Jalan Petitenget, a beautiful spot for a pre dinner drink looking out over a ricefield - or venture into the ricefield and drink there if you can brave the mosquitos. Also serves dinner but I think you can get better food elsewhere)
++ La Lucciola ($$ - on the beach right near The Colony, a lovely spot for a sunset drink or dinner, serves italian/international food)
++ Motel Mexicola ($ - mexican food, right around the corner from The Colony, stick around until late to see the owner walk across the tables free pouring rum/tequila into the mouths of anyone who is game enough to let him, and then watch the music and the dancing start!)
++ MAMA San - ($$$ - really delicious modern asian food in a very trendy setting, fantastic cocktails, and a must try)
++ Sarong - ($$$ - similar to MAMA san, same owners in fact, in a more authentic Balinese setting, also a must try)
+
+Dancing:
++ Hu'u Bar - a fun place to dance until the early hours, predominantly top 40 and pop music with some old school hits thrown in there!
++ Favela - worth a visit just to see the amazing decor, this is right in the centre of town and set up like someone's house, DJ/dance style music. Be warned, if you're not a fan of passive smoking this place can get VERY smoky!
++ Motel Mexicola - see above!
++ Other standard Bali spots are Ku De Ta and Potato Head Beach club for day drinking moving into night partying
+
+![Girls weekend in Bali](/img/kate_bali/4.jpg "Girls weekend in Bali")
+
+Beauty:
+You can't go past Bodyworks across from Motel Mexicola, but make sure you book your appointments in advance. Bodyworks offers facials, nails, hair, massage, the works! For massages and foot reflexology, however, I would recommend ducking into one of the many places on the main shopping strip for a more affordable option.
+
+Shopping:
+Let your nose guide you! There is one main shopping strip that you can't miss, and for cheaper options there's the carpark markets near Seminyak Village. If you're in the market for a made to measure leather jacket (using beautiful quality NZ leather) for around SG$135, one of my girlfriends discovered Mila Creations by word of mouth (Jl. Dewi Sri No. 101 Shop No. 4, Kuta - about a 20 minute taxi ride from Seminyak). They are the local manufacturers for a rather expensive Aussie label, they have multiple designs/colours to try on, and they'll ship to Singapore for $40 within 2-3 days (and to Australia, although not sure how much shipping to Oz is). Two of us went semi nuts there and were very happy with our purchases!
+
+![Girls weekend in Bali](/img/kate_bali/5.jpg "Girls weekend in Bali")
+
+### Best Bits
+
+The Colony Hotel really is a great spot to stay - it's in a great location near some of the top restaurants (Sea Circus, Motel Mexicola and La Lucciola) and around the corner from the best place for beauty treatments - Bodyworks.
+
+It has a lovely pool and is small enough to feel boutique and intimate. Can fit upto three in a room from memory.
+
+### Worst bits
+
+It rained very briefly on the Saturday afternoon, but this was the perfect timing to duck inside for some very affordable foot reflexology.
+
+<hr />
+
+### Ratings
+
+**Rate the overall trip &mdash;** 10/10
+
+**Rate the activity on your trip &mdash;** 10/10
+
+**Rate the ease of logistics &mdash;** 10/10
+
+**Value for money &mdash;** 10/10  
+
+<hr />
+
+### About The Traveller
+
+**Gender & Age Range<br />** Female, 25 - 35
+
+**I'm from <br />** Australia
+
+**My favourite trip as of late <br />** A two week last minute vacation around Europe!
+
+**Travelling Style <br />** Book the important stuff, but leave some flexibility in the schedule.
+
+**I like to go on the following types of trips <br />** Beaches, boat trips, culture, food, wine, historical, city breaks, relaxing.
+
+**It's a dealbreaker when <br />** Accommodation is advertised as "central" but is miles away from anything!
+
+**Continent I know the best <br />** Europe

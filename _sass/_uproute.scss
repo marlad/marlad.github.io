@@ -1,0 +1,554 @@
+// ========================================================
+//      Global
+// ========================================================
+html {
+  font-size: 14px;
+}
+body {
+  height: 100%;
+}
+img {
+  width: 100%;
+  max-width: 100%;
+}
+img.soul {
+  width: 20%;
+  position: absolute;
+  top: -30px;
+  left: -30px;
+  z-index: 5;
+  transform: rotate(-15deg);
+}
+@include media-query($small-screen) {
+  img.soul {
+    left: 0px;
+  }
+}
+.soul-logo-big {
+  max-width: 200px;
+  display: block;
+  margin: 20px auto;
+}
+blockquote {
+  margin-top: 1.8rem;
+  margin-bottom: 1.8rem;
+  margin-left: 1.8rem;
+}
+hr {
+  margin-top: 1.8rem;
+  margin-bottom: 1.8rem;
+  border-top-color: rgb(222, 222, 222);
+}
+hr.spacer {
+  display: block;
+  width: 10%;
+  margin: 2rem auto;
+  border-width: 3px;
+  border-color: #666;
+}
+hr.invisible {
+  border-color: transparent;
+}
+.btn-link {
+  color: $primary;
+}
+.btn-link:hover {
+  color: $primary;
+}
+.btn-special {
+  background-color: transparent;
+  border-radius: 0;
+  border-color: $primary;
+  color: $primary;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  transition: 0.4s ease;
+}
+.btn-special:hover {
+  background-color: $primary;
+  color: #fff;
+}
+.btn-special-inverse {
+  @extend .btn-special;
+  background: $primary;
+  color: #fff;
+  &:hover {
+    background: #fff;
+    color: $primary;
+  }
+}
+.btn-heart,
+.btn-heart-alt {
+  border-color: #EF2D3F;
+  color: #EF2D3F;
+  margin-left: 10px;
+}
+.btn-heart {
+  border-radius: 50%;
+  margin-top: -5px;
+  margin-bottom: 0px;
+}
+.btn-heart:hover,
+.btn-heart-alt:hover {
+  background: #EF2D3F;
+  color: #fff;
+}
+.post-list-flexcontainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+.less-margin {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.subtle {
+  color: $grey-color;
+}
+.wrapper {
+  padding: 30px;
+}
+.site-header,
+.site-footer {
+  .wrapper {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+}
+.site-footer {
+  .wrapper {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+}
+.site-title {
+  @extend h1;
+  letter-spacing: 1.5px;
+}
+.site-nav {
+  .page-link:not(:first-child) {
+    margin-left: 30px;
+  }
+}
+.page-link {
+  font-family: $headings-font-family;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+}
+.site-header {
+  background: #fff;
+}
+#home {
+  .site-header {
+    border-bottom: none;
+    background: rgba(255,255,255,0);
+  }
+  .site-title,
+  .page-link {
+    color: #fff;
+  }
+}
+.hero-unit {
+  background: url('/img/hero3.jpg') center bottom;
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+  padding: 200px 15px;
+  margin-top: -62px;
+  text-shadow: 0 1px 5px rgba(0,0,0,0.35);
+  h1 {
+    color: #fff;
+  }
+  .btn-special {
+    border-color: #fff;
+    border-width: 2px;
+    color: #fff;
+    margin-bottom: 25px;
+  }
+  a {
+    color: #fff;
+  }
+}
+.typed-cursor {
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink {
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink {
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink {
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+.block {
+  background: #edefed;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.block-white {
+  background-color: #fff;
+}
+.small-hero {
+  background: #fff;
+  .left {
+    width: 60%;
+    float: left;
+  }
+  .right {
+    width: 40%;
+    float: right;
+    padding: 30px;
+  }
+  .btn-special {
+    padding: 10px 30px;
+    background: $primary;
+    color: #fff;
+  }
+  .btn-special:hover {
+    background: #fff;
+    color: $primary;
+  }
+}
+.photo-list {
+  li {
+    background: #fff;
+    .post-details {
+      padding: 15px;
+      border: 1px solid #eee;
+      border-top: none;
+      a.lead {
+        display: inline-block;
+        padding-top: 3px;
+        margin-bottom: 0px;
+      }
+      span {
+        float: right;
+      }
+    }
+    a {
+      .post-grabber {
+        min-height: 250px;
+        background-position: center center;
+        background-size: cover;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        h2,
+        h3 {
+          flex-grow: 1;
+          background: rgba(0,0,0,0.5);
+          align-self:stretch;
+          display:flex;
+          align-items:center;
+          padding: 20px;
+          color: #fff;
+          transition: 0.3s ease;
+          margin: 0px auto;
+        }
+      }
+    }
+    a:hover {
+      text-decoration: none;
+      .post-grabber {
+        h2,
+        h3 {
+          background: rgba(255,255,255,0);
+          text-shadow: 0 2px 8px rgba(0,0,0,0.45);
+        }
+      }
+    }
+  }
+}
+.traveller-list {
+  .post-grabber {
+    min-height: 300px;
+  }
+}
+#traveller-icons {
+  display: block;
+  text-align: center;
+  font-size: 2rem;
+  padding-bottom: 20px;
+  a {
+    margin: 0px 15px;
+  }
+}
+.traveller-info {
+  i {
+    color: $primary;
+    font-size: 1.5rem;
+  }
+  dt {
+    font-weight: 500;
+  }
+  dd {
+    margin-bottom: 15px;
+    font-style: italic;
+  }
+}
+.tags-list {
+  margin-top: 30px;
+  li {
+    margin-bottom: 25px;
+    a {
+      padding: 10px;
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      margin-right: 15px;
+      transition: 0.3s ease;
+      color: #2895F1;
+    }
+    a:hover {
+      text-decoration: none;
+      border: 1px solid #2895F1;
+    }
+    i {
+      margin-right: 6px;
+      color: #2895F1;
+    }
+  }
+}
+a.nodecoration:hover {
+  text-decoration: none;
+}
+.destination {
+  width: 100%;
+  text-align: center;
+  h2 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-shadow: 0 1px 5px rgba(0,0,0,0.35);
+    color: #fff;
+    font-weight: bold;
+  }
+}
+.dest-yallingup {
+  background: url('/img/destinations/yallingup1.jpg') center;
+  background-size: cover;
+}
+.dest-margs {
+  background: url('/img/destinations/margaret-river1.jpg') center;
+  background-size: cover;
+}
+.dest-denmark {
+  background: url('/img/destinations/denmark1.jpg') center;
+  background-size: cover;
+}
+.dest-esperance {
+  background: url('/img/destinations/esperance1.jpg') center;
+  background-size: cover;
+}
+.dest-rotto {
+  background: url('/img/destinations/rotto1.jpg') center;
+  background-size: cover;
+}
+.dest-perth {
+  background: url('/img/destinations/perth1.jpg') center;
+  background-size: cover;
+}
+.modal-body {
+  font-weight: 300;
+  font-size: 14px;
+  color: rgb(130,130,130);
+}
+.uproute-modal-signup {
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  label {
+    margin-right: 15px;
+  }
+  input[type="email"] {
+    padding-left: 5px;
+    width: 60%;
+  }
+  p {
+    margin-top: 15px;
+  }
+  .btn-special {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+}
+/* ========================================================
+      Post
+======================================================== */
+.page-hero {
+  background-position: center center;
+  color: #fff;
+  text-align: center;
+  h1 {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    color: #fff;
+    text-shadow: 0 1px 5px rgba(0,0,0,0.35);
+    margin-bottom: 0px;
+  }
+}
+.page-hero-about {
+  background-image: url('/img/hero2.jpg');
+  background-size: cover;
+}
+.page-hero-contact {
+  background-image: url('/img/hero4.jpg');
+  background-size: cover;
+}
+.page-hero-submit {
+  background-image: url('/img/hero5.jpg');
+  background-size: cover;
+}
+.page-hero-itineraries {
+  background-image: url('/img/hero6.jpg');
+  background-size: cover;
+}
+.page-hero-404 {
+  background-image: url('/img/hero404.jpg');
+  background-size: cover;
+  h1 {
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+}
+#all-itineraries {
+  .col-md-6,
+  .col-sm-12 {
+    margin-bottom: 30px;
+  }
+}
+.photobox {
+  min-height: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.photobox-1 {
+  background: url('/img/box1.jpg') center;
+  background-size: cover;
+}
+.photobox-2 {
+  background: url('/img/box2.jpg') center;
+  background-size: cover;
+}
+.photobox-3 {
+  background: url('/img/box3.jpg') center;
+  background-size: cover;
+}
+/* ========================================================
+      Post
+======================================================== */
+.post-image {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: $spacing-unit;
+}
+.feature-image {
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  height: 65vh;
+  margin-bottom: $spacing-unit;
+  display: flex;
+  align-items: center;
+  h1, p {
+    color: #fff;
+    text-shadow: 0 1px 5px rgba(0,0,0,0.35);
+  }
+  a {
+    color: #fff;
+  }
+}
+.post-header {
+  padding-top: $spacing-unit;
+  .subtitle {
+    text-transform: initial;
+    font-size: 1.1rem;
+    font-style: italic;
+  }
+}
+.post-details {
+  dl {
+    margin: $spacing-unit 0px;
+    dd {
+      margin-bottom: 0.5 * $spacing-unit;
+    }
+  }
+}
+.post-content {
+  h3 {
+    padding-top: 1rem;
+    &:first-child {
+      padding-top: 0;
+    }
+  }
+  img {
+    margin: $spacing-unit auto;
+    &:first-child {
+      margin-top: 0.5 * $spacing-unit;
+    }
+  }
+}
+.site-footer {
+  background: #fff;
+}
+.footer-list {
+  li:first-child {
+    padding-left: 0;
+  }
+  li {
+    text-transform: uppercase;
+    margin-bottom: 0;
+  }
+  li:last-child {
+    display: none;
+  }
+}
+nav.site-nav { // TODO: Fix this and make it more elegant.
+  top: 12px;
+}
+.site-nav {
+  .menu-icon {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+}
+@include media-query($on-palm) { // TODO: Fix this and make it more elegant.
+  .hero-unit {
+    padding: 115px 20px;
+  }
+  .small-hero {
+    img {
+      margin-bottom: 30px;
+    }
+    p {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  }
+  #home {
+    .page-link {
+      color: $brand-color;
+    }
+  }
+  .tags-list {
+    font-size: 0.85rem;
+    a {
+      padding: 7px;
+    }
+  }
+}
+/* Cheats! */
+.no-margin {
+  margin: 0px;
+}
+.no-margin-bottom {
+  margin-bottom: 0px;
+}

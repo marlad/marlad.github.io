@@ -1,0 +1,161 @@
+---
+layout: post
+title:  "40th Birthday In Sri Lanka"
+date:   2016-01-27 09:02:57
+categories: Sri-Lanka
+category-name: [Sri Lanka]
+tags: [birthday, beach, historic-sites, colonial, relax, work-hard-play-hard]
+author: Marla D
+author-username: marla
+image: /40th Birthday in Sri Lanka/menfishing.jpg
+---
+
+{% include tags-content.html %}
+
+**The Trip &mdash;** 40th Birthday in Sri Lanka
+
+**Duration &mdash;** 7 nights, 8 days
+
+**Origin &mdash;** Singapore
+
+**Type of Trip&mdash;** {{ tags_content }}
+
+**Average temperature&mdash;** 30 degrees during the day, 22 at night
+
+**Mode of Transportation &mdash;** Plane, taxi pickup and tuktuk
+
+**Cost &mdash;** $4000 for 2 people
+
+**General Route &mdash;** fly in to Colombo, taxi to Galle Fort (2 nights), tuktuk to Mirissa (3 nights), charter flight to Colombo (2 nights)
+
+**Accommodation &mdash;** Deco 44 (Galle Fort), Imagine Villa Hotel (Mirissa), Galle Face Hotel (Colombo)
+
+**Main Activities &mdash;** Galle Fort museums, Jungle Beach, Idle Tours 30km bicycle ride, Wijaya Beach, Tea Plantation, Fresh seafood on the beach, whale watching, Colombo markets, Colombo concierge service
+
+**Food and drink Highlights &mdash;** A Minute by Tuktuk, Amangalla, Mirissa beach vendors, Dewmini Roti Shop, Imagine Villa Hotel restaurant, Ministry of Crab, Dutch Burgher Union, Qbaa, Clique
+
+<hr />
+
+### Ratings
+
+**Rate the overall trip &mdash;** 9/10 I simply can't wait to go back to Sri Lanka!
+
+**Rate the activity on your trip &mdash;** 9/10 The beaches were beautiful (not like Western Australia though), I'll never forget the monkey madness on our 30km cycling trip in flipflops and the private bar tour of Colombo was perfect!
+
+**Rate the ease of logistics &mdash;** 8/10 Everyone spoke English, was friendly, and bargained but didn't try to rip us off. One of my most memorable flights was the 8 seat seaplane from Koggala airbase to Colombo.
+
+**Luxury factor &mdash;** 7.5/10 We intentionally mixed it up. Most premium was Galle Face Hotel, although we were always comfortable.
+
+<hr />
+
+### About The Traveller
+
+**Age <br />** 34
+
+**Gender <br />** Female
+
+**I'm from <br />** the Canadian Rockies
+
+**My favourite trip as of late <br />** this one!
+
+**I often travel… <br />** For work, and then extend my trip to explore
+
+**I would class myself as <br />** an experienced traveller
+
+**I regularly go on the following types of trips <br />** Culture, sporty, beach, gourmet, relax
+
+**It's a dealbreaker when <br />** my accommodation or the restaurant is dirty
+
+**Continent I know the best <br />** Asia
+
+### Want to hear more about Marla's experience on this trip? Click here for a more detailed itinerary
+
+![50 cent coconut!](/img/40th Birthday in Sri Lanka/50centcoconut.jpg "50 cent coconut!")
+
+![30km bike ride](/img/40th Birthday in Sri Lanka/30kmbikeride.jpg "30km bike ride")
+
+![hoppers for breakfast](/img/40th Birthday in Sri Lanka/hoppersforbreakfast.jpg "hoppers for breakfast")
+
+![Mirissa sunset](/img/40th Birthday in Sri Lanka/mirissasunset.jpg "Mirissa Sunset")
+
+![seafood vendor Mirissa beach](/img/40th Birthday in Sri Lanka/seafoodvendor.jpg "seafood vendor Mirissa beach")
+
+![Marla loves Sri Lanka!](/img/40th Birthday in Sri Lanka/marlabeach.jpg "Marla loves Sri Lanka!")
+
+![Hammock cheers at Dutch hospital Galle Fort](/img/40th Birthday in Sri Lanka/hammockcheers.jpg "Hammock cheers at Dutch hospital Galle Fort")
+
+
+### Our Experience
+**My fiance has a tradition of always traveling for his birthday and he had never been to Sri Lanka.**  
+
+Sri Lanka
+
+Hotel arranged car from Colombo airport to galle fort was 130 usd (more than should pay, Prob closer to 80).
+
+Galle fort
+Stayed: deco 44. Great. Stay on 2nd floor rather than ground floor, awesome local breakfast served (hoppers), but you need to advise that you want local breakfast a day in advance
+
+Lunches: "A Minute By Tuk Tuk" at old dutch hospital (Lyndon’s favourite shrimp curry on the entire trip)
+
+Dinners: the sun house hotel and restaurant (outside of fort, good food and nice setting but overpriced), Amangalla (from the Aman resorts. Beautiful to eat sitting not the patio. Nice experience. Better than Sun House and same price)
+
+To do:
+
+First walk around and enjoy the Galle fort. Sit on the edge of the fort with all the locals for sun set, watching seals and turtles in the ocean. Visit the naval museum and local museum, do the walking tour from Lonely Planet. Spend a full day wandering around the small fort.
+
+Tuk tuk from galle fort to jungle beach, get there by 10am for a lounge chair. Our tuk tuk cost 600.000
+
+Idle tours rice paddy and lake tour on bike (30km) or idle tours ginganga river canoe tour. We did the bike tour which was great!
+
+Visit wijaya beach (hotel with nice beach front and good resto to hang out)
+
+Mirissa
+
+Stayed at imagine villa hotel. Really nice, but about a 10 min tuk tuk (350 rupee) to go to mirissa beach.
+
+Recommend staying on mirissa beach, hanging out during the day on any of the free sun loungers (bring your own towels) and choosing any of the restsurants on the beach that night that has the freshest seafood. Make sure you buy 'today's' fish (look at the eyes and gills). Bring wine / champagne from duty free, and a waterproof bag you can fill with ice to chill it at dinner. When we were here, none of the restos charged us a corkage fee and their own wine selections were minimal and expensive.
+
+Have the best (and really cheap) roti at dewmini roti shop.
+
+Recommend going one night to imagine villa hotel for dinner. They make a really nice set menu (3500/person) with whatever they bought at the market that day. Call before 2pm to tell them if you want to eat there because they typically just serve hotel guests.
+
+Whale/Dolphin watching is the thing to do. We paid 6000 per person and you go out on a big boat with up to 50 other people (lots of boats leaving at the same time from mirissa port. We went with Atlantis co.) gets kind of boring searching for whales, and depending on where the other tourists are from, the concept of personal space varies. If we did it again we would prob either splurge and take a catamaran with very few people (we saw one) or hire a small fishing boat with a powerful motor just for the 2 of us. They move fast and you can leave when you're content.
+
+Took the sea plane from Koggala airport (a military base about a 20 minute tuk tuk from Mirissa) to Colombo and it was incredible. Flew with Cinnamon Air on an 8-seater plane. Fantastic experience.
+
+
+Colombo
+
+Stayed at Galle Face Hotel which was superb location, setting, pool, rooms. We stayed in an Ocean View Room (I think room 2008) which was great. Martin had the best room one floor higher and it was a corner room.
+
+Didn’t have time to visit much of Colombo. Interesting to get a TUk TUk and go around the old part of the city and Pettah market. Pettah market only open half day on Saturday.
+
+Had drinks and local food at the Dutch Burgher Union (went upstairs to the members club for drinks). Interesting look at the past. Lamprais is the traditional food eaten by the Dutch Burghers apparently.
+
+Hired Quintessentially, a private concierge company, to take the 5 of us on a bar and club tour of Colombo. It worked out brilliantly with immediate access, reserved seating and welcome drinks at a bunch of bars then restaurants. Adding to the fun, our mode of transport was tuktuk!
+
+Had famous Sri Lankan crab at the Ministry of Crab. Great setting, awesome crab. Order the cold butter crab a day in advance.
+
+Had a good local, vegetarian lunch at Sarawasti Cafe, on an interesting busy street near Pettah. There are 2 right across the street from each other, one new one old. We ate in the in the new one because the other was full.
+
+Other recommendations we were given for food near Pettah market (but didn’t have time to try): Jeyasshiriy Cafe (spicy Jaffna cuisine) and Sweet Tomato (halal family restaurant)
+
+Bars:
+Park Street Mews
+Cloud Red (Rooftop Bar)
+Sky Lounge (Rooftop Bar at the Kingsbury- its just a few steps from Ministry of Crab)
+Sopranos (Karaoke)
+41 Sugar
+Qbaa for good live music
+7 degrees cinnamon lakeside (very pretty, quiet lakeside outdoor bar, part of the cinnamon hotel)
+Nightclubs:
+Silk (Under 41 Sugar)
+Clique   
+
+
+### Why We Loved It
+There was nothing not to love! We felt welcomed by the Sri Lankans, they were happy to visit with us and teach us things (without asking for tips), one of the hotel chefs let me come into the kitchen and taught me how to make hoppers! We went to A Minute By Tuktuk three times in 2 days for their delicious shrimp curry. We loved it so much we asked for the recipe, which the chef happily wrote out by hand on the back of a receipt! The infrastructure is decent and I felt like all of my senses were heightened. I don't take many pictures, but I always wanted to take one here! The topography was incredibly diverse and Sri Lanka has a rich, varied and difficult history, which adds to the intrigue for me as a traveler. The sunsets were gorgeous, life just felt easy! There is something for everyone there, you just need some imagination. Prices were very reasonable, it was clean in the areas that we were, the curries and fresh seafood were fabulous, the beaches were vast, mostly empty and clean. Colombo was the kind of chaotic city that my fiance and I love the challenge of navigating. Plus, it's only a 3.5 hour flight from Singapore making it an incredibly easy getaway. Friends met us for the 2 nights in Colombo to celebrate my fiance's birthday which was the perfect finish.  
+
+
+### Drawbacks
+The relatively small surface area of Sri Lanka is deceiving because with such diversity and only several main roads leading out of the capital, you need plenty of time to do it all. For example, we didn't get to see any of the highlands or important Buddhist sites. Nevertheless, we're not the kind of travelers who like to jump around, particularly on this trip, we wanted to relax. We prefer to 'miss out' and experience more in fewer locations and leave with the desire to return. In hindsight I would have researched Colombo a bit better before we went. We saved the Pettah market for a Sunday only to arrive and find out it is closed (along with the neighbouring shops and restaurants) for the better part of the day. I would have also taken mosquito spray. We didn't have any problem in the south, but Colombo was rife with them. Service was very good, I didn't find it overbearing as some of my friends have found in the past. The Galle Face Hotel was useless however at booking anything through the concierge for us, be it a taxi or a dinner reservation. We saw quite a number of stray or wandering dogs in the south, but none of them looked shabby.

@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "New Year Camping in Kalbarri, Western Australia - 7 Night Road Trip"
+date:   2016-03-19 09:02:57
+categories: Kalbarri
+category-name: [Kalbarri]
+tags: [nature, camping, road-trip, hiking, boating, budget]
+author: Caroline L
+author-username: caroline-l
+image: /Caroline Lindsay RAC/photo 2.JPG
+---
+
+{% include tags-content.html %}
+
+**The Trip &mdash;** New Year's Camping Trip to Kalbarri, WA
+
+**Duration &mdash;** 7 nights, 8 days
+
+**Origin &mdash;** Perth
+
+**Type of Trip&mdash;** {{ tags_content }}
+
+**Trip Dates and Average Temperature&mdash;** January 2016, Australian summer
+
+**Mode of Transportation &mdash;** Car
+
+**Cost &mdash;** budget trip
+
+**Accommodation &mdash;** campsite in Kalbarri Tudor Holiday Park
+
+**Main Activities &mdash;** Visiting Kalbarri National Park to take photos at Nature's Window, hiking Z Bend, hiring a dinghy to "cruise" up the Murchison
+
+**Food and Drink Highlights &mdash;** Finlays' Fish BBQ, Kalbarri Pizza & Pasta  
+
+
+<hr />
+
+
+![Kalbarri, Western Australia](/img/Caroline Lindsay RAC/photo 1.JPG "Kalbarri, Western Australia")
+
+
+### Tips for other travellers
+**Consider what time of year to visit Kalbarri as it will affect what you end up doing while you are there.**  
+
+It's beautiful year round - if you want to just relax at the beach summer is perfect as it's so hot. If you prefer being active and maybe doing some hiking or visiting the natural attractions such as the National Park, consider going mid-year as the weather will make it a lot more enjoyable, the rivers won't be dry and the scenery will be a bit more lush.
+
+![Kalbarri, Western Australia](/img/Caroline Lindsay RAC/photo.JPG "Kalbarri, Western Australia")
+
+![Kalbarri, Western Australia](/img/Caroline Lindsay RAC/photo 3.jpg "Kalbarri, Western Australia")

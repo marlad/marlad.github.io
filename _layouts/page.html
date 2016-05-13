@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<!-- ==========================
+
+This layout uses the default Jekyll 
+CSS to style the page. Want to use
+Bootstrap?! Use the page-alt layout
+
+============================-->
+
+{% if page.title == "About" %}
+  <div class="page-hero page-hero-about">
+    <h1>{{ page.image-overlay }}</h1>
+  </div>
+{% endif %}
+
+{% if page.title == "Contact" %}
+  <div class="page-hero page-hero-contact">
+    <h1>{{ page.image-overlay }}</h1>
+  </div>
+{% endif %}
+
+{% if page.title == "Submit" %}
+  <div class="page-hero page-hero-submit">
+    <h1>{{ page.image-overlay }}</h1>
+  </div>
+{% endif %}
+
+{% if page.title == "Itineraries" %}
+  <div class="page-hero page-hero-itineraries">
+    <h1>{{ page.image-overlay }}</h1>
+  </div>
+{% endif %}
+
+{% if page.title == "Four Oh Four!" %}
+  <div class="page-hero page-hero-404">
+    <h1>{{ page.image-overlay }}</h1>
+  </div>
+{% endif %}
+
+<div class="wrapper" id="shorty">
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>

@@ -1,0 +1,30 @@
+
+<span class="">
+
+
+  <!-- Button trigger modal -->
+  <button type="button" class="btn btn-special no-margin btn-heart-alt btn-sm" data-toggle="modal" data-target="#heartAltModal">
+    <i class="fa fa-heart-o"></i> Like
+  </button>
+
+  <!-- Modal -->
+  <div class="modal fade" id="heartAltModal" tabindex="-1" role="dialog" aria-labelledby="heartAltModalLabel">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title" id="heartAltModalLabel">Sign Up for Early Access</h4>
+        </div>
+        <div class="modal-body">
+          <p>Uproute is currently in Beta! This means some features aren't fully functional yet, like the ability to like posts. We can let you know as soon as this feature is ready if you leave us your email here:</p>
+
+          {% include newsletterSignupForm.html %}
+
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</span>

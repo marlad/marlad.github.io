@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "Baby-Moon Weekend Getaway to Kelowna, BC"
+date:   2016-04-22 18:04:57 +0800
+categories: kelowna
+category-name: [Kelowna]
+tags: [hiking, food, wine, wildlife, relax, massage, shopping]
+author: Bre D
+author-username: bre-d
+image: /bre_kelowna/1.jpg
+rac: no
+permalink: /bre-kelowna
+---
+
+{% include tags-content.html %}
+
+**The Trip &mdash;** Baby-moon long weekend getaway to Okanagan Valley in BC, Canada
+
+**Duration &mdash;** 2 Nights
+
+**Origin &mdash;** Calgary, AB Canada
+
+**Type of Trip&mdash;** {{ tags_content }}
+
+**Group Size&mdash;** 2
+
+**Trip Dates and Comments &mdash;** March. The airports were very busy due to the schools being on Spring break so Nexus definitely came in handy to avoid the long waits!
+
+**Mode of Transportation &mdash;** Aeroplane
+
+**Arrival Logistics &mdash;** Kelowna is a small airport and easy to navigate. We landed, got our baggage and proceeded to pick up our rental car. Kelowna is central in the Okanagan and we travelled north and south to really take in the beautiful lake valley.
+
+**Cost per Person &mdash;** $500 - $1000
+
+**General Route &mdash;** We booked a resort hotel in a more remote location that is known for it's ambiance and spa. We planned our itinerary to be one day at the spa, one day out and about, and the last day whatever we wanted!
+
+**Accommodation &mdash;** The resort we stayed at is called Sparkling Hill and is owned by the Swarovski family, so naturally there are crystals everywhere! It is quite upscale and includes the Kur Spa and a fine dining restaurant. The resort is situated on high ground that overlooks the Okanagan Lake and is adjacent to a premier golf course called Predator Ridge.
+
+**Main Activities &mdash;** Hiking, Food, Wine tasting, Wildlife, Relaxing, Getting massages, Shopping.
+
+**Food and Drink Highlights &mdash;** We ate dinner at the resort restaurant both nights because we had meal vouchers. I found the meals hit or miss. The best menu item (both my husband and I agree) is the tenderloin steak. The desserts were average but on the upside, the wine list featured lots of local wines.
+
+**Essential Packing for this Trip &mdash;** Books! Because we had lots of relax time, I fell short of reading materials. Normally our trips are go go go, but this one was very slow-paced! We ended up doing some drive by dream home spotting along the lake when we ran out of books!
+
+<hr />
+
+### Best Bits
+
+The Okanagan is a beautiful destination with something to offer everyone - from wineries, hiking and bike trails, to farms and orchards, water sports, restaurants and some (though limited) nightlife, anyone can find something to do there!
+
+![Okanagan Valley](/img/bre_kelowna/2.jpg "Okanagan Valley")
+
+### Worst bits
+
+We did a fairly simple hike (because I was 7 months pregnant) at Mount Boucherie. It was difficult to find the trailhead and the trail is not well marked - but once you make it to the top it's beautiful.
+
+The Kur Spa massage was really nice but I was disappointed to find out that they do not hire registered massage therapists.
+
+### Our Experience
+
+Other restaurants that we tried: The Curious Cafe (late breakfast lunch).. it was delicious! A small menu but great service and quality food. The price was very reasonable as well. The other place we had lunch was Grey Monk Wineries overlooking the Okanagan. It was a fairly casual place with patio furniture but the food was interesting and featured all local ingredients. They also have a pastry chef which means the desserts are amazing!
+
+![Okanagan Valley](/img/bre_kelowna/3.jpg "Okanagan Valley")
+
+<hr />
+
+### Ratings
+
+**Rate the overall trip &mdash;** 8/10
+
+**Rate the activity on your trip &mdash;** 7/10
+
+**Rate the ease of logistics &mdash;** 10/10
+
+**Value for money &mdash;** 6/10  
+
+<hr />
+
+### About The Traveller
+
+**Gender & Age Range<br />** Female, 25 - 35
+
+**I'm from <br />** Calgary, Alberta
+
+**My favourite trip as of late <br />** Baby-moon long weekend get-away in the Okanagan Valley - this one!
+
+**Travelling Style <br />** Book the important stuff, but leave some flexibility in the schedule.
+
+**I like to go on the following types of trips <br />** Adventure, Beaches, Hiking, Birthday Trips, Food, Wine, Wildlife, Relaxing.
+
+**It's a dealbreaker when <br />** Accommodations and/or activities do not deliver as per expectation!
+
+**Continent I know the best <br />** North America

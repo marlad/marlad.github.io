@@ -1,0 +1,83 @@
+---
+layout: default
+---
+
+{% assign post = page %}
+
+{% include tags-content.html %}
+
+<div class="feature-image" style="background-image: url('/img/{{ page.image }}');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 post-header text-center">
+        <h1>{{ page.author }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-md-12">
+      <hr />
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-5 post-details">
+      <h3>Traveller Profile: {{ page.author }}</h3>
+
+      {% include follow.html %}
+
+      <dl>
+        <dt>Gender & Age Range</dt>
+        <dd>{{ page.genderage }}</dd>
+        <dt>I'm From</dt>
+        <dd>{{ page.from }}</dd>
+        <dt>Occupation</dt>
+        <dd>{{ page.occupation }}</dd>
+        <dt>My favourite trip as of late</dt>
+        <dd>{{ page.favourite }}</dd>
+        <dt>Travelling Style</dt>
+        <dd>{{ page.style }}</dd>
+        <dt>I like to go on these types of trip</dt>
+        <dd>{{ tags_content }}</dd>
+        <dt>It's a dealbreaker when</dt>
+        <dd>{{ page.dealbreaker }}</dd>
+        <dt>Continent I know best</dt>
+        <dd>{{ page.continent }}</dd>
+      </dl>
+
+    </div>
+    <div class="col-md-7">
+
+      <h3>Trips {{ page.author }} has shared on Uproute</h3>
+
+      <br />
+
+      <ul class="post-list photo-list">
+        {% for post in site.posts do %}
+          {% if post.author == page.author %}
+          <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              <div class="post-grabber" style="background-image: url('/img/{{ post.image }}');">
+                <h2>{{ post.title }}</h2>
+              </div>
+            </a>
+            <div class="post-details post-meta">
+              <a  href="/blog/author/{{ post.author-username }}/">{{ post.author }}</a>
+              <span class="text-right">{{ post.date | date: "%b %-d, %Y" }}</span>
+            </div>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+      <hr />
+
+      {% include bottom-cta.html %}
+
+    </div>
+  </div>
+</div>

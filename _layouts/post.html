@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+{% assign post = page %}
+
+{% if post.tags.size > 0 %}
+  {% capture tags_content %}{% endcapture %}
+  {% for post_tag in post.tags %}
+    {% for data_tag in site.data.tags %}
+      {% if data_tag.slug == post_tag %}
+        {% assign tag = data_tag %}
+      {% endif %}
+    {% endfor %}
+    {% if tag %}
+      {% capture tags_content_temp %}{{ tags_content }}<a href="/blog/tag/{{ tag.slug }}/">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
+      {% assign tags_content = tags_content_temp %}
+    {% endif %}
+  {% endfor %}
+{% else %}
+  {% assign tags_content = '' %}
+{% endif %}
+
+
+<div class="wrapper" id="post-wrapper">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="subtitle subtle">Posted by <a href="/blog/author/{{ page.author-username }}/">{{ page.author }}</a> on {{ page.date | date: "%b %-d, %Y" }}</p>
+    {% include addtolist.html %} {% include heart-alt.html %}
+  </header>
+
+  {% if page.image %}
+    <img class="post-image" src="/img/{{ page.image }}" />
+  {% endif %}
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  <hr />
+
+  <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</p>
+  <p class="post-meta">Category: <a href="/blog/category/{{ post.categories }}/">{{ post.category-name }}</a></p>
+  <p class="post-meta">Tagged: {{ tags_content }}</p>
+
+  <hr />
+
+  {% include bottom-cta.html %}
+
+</div>

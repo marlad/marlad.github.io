@@ -1,0 +1,73 @@
+---
+layout: page-alt
+title: Itineraries
+permalink: /itineraries/
+menu: main
+image-overlay: Uproute Itineraries
+---
+
+<div class="block" id="all-itineraries">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 text-center">
+        <h3>Uproute Itineraries</h3>
+        <p>Browse all Uproute itineraries to help plan your next trip.</p>
+        <p><a href="#triptags" class="smooth_scroll">Need some inspiration?</a></p>
+        <hr class="spacer" />
+      </div>
+    </div>
+    <div class="row">
+      <ul class="post-list photo-list post-list-flexcontainer">
+        {% for post in site.posts %}
+        <div class="col-md-6 col-sm-12">
+          <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              <div class="post-grabber" style="background-image: url('/img{{ post.image }}');">
+                <h2>{{ post.title }}</h2>
+              </div>
+            </a>
+            <div class="post-details post-meta">
+              <a  href="/blog/author/{{ post.author-username }}/">{{ post.author }}</a>
+              <span class="text-right">{{ post.date | date: "%b %-d, %Y" }} {% include heart.html %}</span>
+            </div>
+          </li>
+        </div>
+        <div class="clearfix visible-xs-block"></div>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<div class="block" id="triptags">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-offset-1 col-md-10 text-center">
+        <h3>Itineraries by Tag</h3>
+        <p>What kind of trip are you going on next?</p>
+        <hr class="spacer" />
+        <ul class="list-inline tags-list">
+          <li><a href="/blog/tag/road-trip/"><i class="fa fa-car "></i> Road Trips</a></li>
+          <li><a href="/blog/tag/wine/"><i class="fi flaticon-wine"></i> Wine Tasting</a></li>
+          <li><a href="/blog/tag/food/"><i class="fi flaticon-food"></i> Food Focused</a></li>
+          <li><a href="/blog/tag/luxury/"><i class="fi flaticon-luxury "></i> Luxury Retreat</a></li>
+          <li><a href="/blog/tag/hiking/"><i class="fi flaticon-hiking "></i> Hiking Trips</a></li>
+          <li><a href="/blog/tag/weekend-trip/"><i class="fi flaticon-weekend "></i> Weekend Trips</a></li>
+          <li><a href="/blog/tag/beach/"><i class="fi flaticon-beach "></i> Beaches</a></li>
+          <li><a href="/blog/tag/camping/"><i class="fi flaticon-camping "></i> Camping</a></li>
+          <li><a href="/blog/tag/birthday/"><i class="fi flaticon-birthday "></i> Birthday</a></li>
+          <li><a href="/blog/tag/4x4/"><i class="fi flaticon-4x4 "></i> 4x4 Adventures</a></li>
+          <li><a href="/blog/tag/city-break/"><i class="fi flaticon-city "></i> City Breaks</a></li>
+          <li><a href="/blog/tag/boat/"><i class="fi flaticon-boat "></i> Boat Trips</a></li>
+          <li><a href="/blog/tag/pub/"><i class="fi flaticon-pub "></i> Pubs</a></li>
+          <li><a href="/blog/tag/relax/"><i class="fi flaticon-relax "></i> Relaxation</a></li>
+          <li><a href="/blog/tag/sportcation/"><i class="fi flaticon-sportcation "></i> Sportcations</a></li>
+          <li><a href="/blog/tag/national-parks/"><i class="fi flaticon-national-park "></i> National Parks</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include small-hero.html %}

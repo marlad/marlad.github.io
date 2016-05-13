@@ -1,0 +1,249 @@
+---
+layout: index
+---
+
+<div class="hero-unit">
+
+  <h1 class="hidden-xs">Check out what <span class="typed"></span></h1>
+  <h1 class="visible-xs">Check out what Marla got up to in Esperance</h1>
+  <br />
+  <p class="lead">Help travellers around the world plan perfect itineraries using your experience.</p>
+  <a href="/shareyourtrip/" class="btn btn-lg btn-special">Share Your Trip</a>
+  <em><p class="small"><a href="/about/">What is Uproute?</a></p></em>
+
+</div>
+
+{% include small-hero.html %}
+
+<div class="block block-white">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h3>Featured Uproute Itineraries</h3>
+        <p>Check out where travellers have been lately.</p>
+        <hr class="spacer" />
+      </div>
+    </div>
+    <div class="row">
+      {% for post in site.posts limit:3 %}
+        <div class="col-md-4 col-sm-12">
+          <ul class="post-list photo-list">
+            <li>
+              <a href="{{ post.url | prepend: site.baseurl }}">
+                <div class="post-grabber" style="background-image: url('/img/{{ post.image }}');">
+                  <h3>{{ post.title }}</h3>
+                </div>
+              </a>
+              <div class="post-details post-meta">
+                <a href="/blog/author/{{ post.author-username }}/">{{ post.author }}</a>
+                <span class="text-right">{{ post.date | date: "%b %-d, %Y" }} {% include heart.html %}</span>
+              </div>
+            </li>
+          </ul>
+        </div>
+      {% endfor %}
+    </div>
+    <div class="row text-center">
+      <div class="col-sm-12">
+        <a href="/itineraries/" class="btn btn-lg btn-special">See More Itineraries</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="block">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-offset-1 col-md-10 text-center">
+        <h3>Itineraries by Tag</h3>
+        <p>What kind of trip are you going on next?</p>
+        <hr class="spacer" />
+        <ul class="list-inline tags-list">
+          <li><a href="/blog/tag/road-trip/"><i class="fa fa-car "></i> Road Trips</a></li>
+          <li><a href="/blog/tag/wine/"><i class="fi flaticon-wine"></i> Wine Tasting</a></li>
+          <li><a href="/blog/tag/food/"><i class="fi flaticon-food"></i> Food Focused</a></li>
+          <li><a href="/blog/tag/luxury/"><i class="fi flaticon-luxury "></i> Luxury Retreat</a></li>
+          <li><a href="/blog/tag/hiking/"><i class="fi flaticon-hiking "></i> Hiking Trips</a></li>
+          <li><a href="/blog/tag/weekend-trip/"><i class="fi flaticon-weekend "></i> Weekend Trips</a></li>
+          <li><a href="/blog/tag/beach/"><i class="fi flaticon-beach "></i> Beaches</a></li>
+          <li><a href="/blog/tag/camping/"><i class="fi flaticon-camping "></i> Camping</a></li>
+          <li><a href="/blog/tag/birthday/"><i class="fi flaticon-birthday "></i> Birthday</a></li>
+          <li><a href="/blog/tag/4x4/"><i class="fi flaticon-4x4 "></i> 4x4 Adventures</a></li>
+          <li><a href="/blog/tag/city-break/"><i class="fi flaticon-city "></i> City Breaks</a></li>
+          <li><a href="/blog/tag/boat/"><i class="fi flaticon-boat "></i> Boat Trips</a></li>
+          <li><a href="/blog/tag/pub/"><i class="fi flaticon-pub "></i> Pubs</a></li>
+          <li><a href="/blog/tag/relax/"><i class="fi flaticon-relax "></i> Relaxation</a></li>
+          <li><a href="/blog/tag/sportcation/"><i class="fi flaticon-sportcation "></i> Sportcations</a></li>
+          <li><a href="/blog/tag/national-parks/"><i class="fi flaticon-national-park "></i> National Parks</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="block block-white">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-offset-1 col-md-10 text-center">
+        <h3>Popular Uproute Destinations</h3>
+        <p>Let your next trip be inspired.</p>
+        <hr class="spacer transparent">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-sm-12">
+        <a class="nodecoration" href="/blog/category/yallingup"/>
+          <div class="destination dest-yallingup">
+            <h2>Yallingup</h2>
+          </div>
+        </a>
+      </div>
+      <div class="col-md-8 col-sm-12">
+        <a class="nodecoration" href="/blog/category/margaret-river"/>
+          <div class="destination dest-margs">
+            <h2>Margaret River</h2>
+          </div>
+        </a>
+      </div>
+    </div>
+    <br />
+    <div class="row">
+      <div class="col-md-8 col-sm-12">
+        <a class="nodecoration" href="/blog/category/esperance"/>
+          <div class="destination dest-esperance">
+            <h2>Esperance</h2>
+          </div>
+        </a>
+      </div>
+      <div class="col-md-4 col-sm-12">
+        <a class="nodecoration" href="/blog/category/denmark"/>
+          <div class="destination dest-denmark">
+            <h2>Denmark</h2>
+          </div>
+        </a>
+      </div>
+    </div>
+    <br />
+    <div class="row">
+      <div class="col-md-4 col-sm-12">
+        <a class="nodecoration" href="/blog/category/perth"/>
+          <div class="destination dest-perth">
+            <h2>Perth</h2>
+          </div>
+        </a>
+      </div>
+      <div class="col-md-8 col-sm-12">
+        <a class="nodecoration" href="/blog/category/rottnest-island"/>
+          <div class="destination dest-rotto">
+            <h2>Rottnest Island</h2>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="block">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h2>Meet Your Fellow Travellers</h2>
+        <p>Get inspired by Uproute's community of explorers. </p>
+        <hr class="spacer invisible">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <ul class="post-list photo-list traveller-list">
+          <li>
+            <a href="/blog/author/marla/">
+              <div class="post-grabber" style="background-image: url('/img/40th Birthday in Sri Lanka/marlabeach.jpg');">
+              </div>
+            </a>
+            <div class="post-details post-meta">
+              <a class="lead" href="/blog/author/marla/">Marla</a>
+              {% include follow.html %}
+              <hr class="less-margin" />
+              <ul class="list-inline" id="traveller-icons">
+                <li><a href="/blog/tag/food/"><i class="fi flaticon-food "></i></a></li>
+                <li><a href="/blog/tag/beach/"><i class="fi flaticon-beach "></i></a></li>
+                <li><a href="/blog/tag/relax/"><i class="fi flaticon-relax "></i></a></li>
+              </ul>
+              <p>Loves traveling for culture and relaxation. Knows Asia best. Dealbreaker when accommodation or restaurant is dirty! Usually travels for work, then extends trip to explore.</p>
+              <dl class="traveller-info text-center">
+                <dt><i class="fi flaticon-buildings"></i></dt>
+                <dd>The Canadian Rockies</dd>
+                <dt><i class="fi flaticon-pin"></i></dt>
+                <dd>Western Australia</dd>
+                <dt><i class="fi flaticon-medical"></i></dt>
+                <dd>Experienced traveller</dd>
+              </dl>
+              <p></p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <ul class="post-list photo-list traveller-list">
+          <li>
+            <a href="/blog/author/jam tart/">
+              <div class="post-grabber" style="background-image: url('/img/Siem Reap/sportcationhero.jpg');">
+              </div>
+            </a>
+            <div class="post-details post-meta">
+              <a class="lead" href="/blog/author/jam tart/">Jam Tart</a>
+              {% include follow.html %}
+              <hr class="less-margin" />
+              <ul class="list-inline" id="traveller-icons">
+                <li><a href="/blog/tag/sportcation/"><i class="fi flaticon-sportcation "></i></a></li>
+                <li><a href="/blog/tag/relax/"><i class="fi flaticon-relax "></i></a></li>
+                <li><a href="/blog/tag/beach/"><i class="fi flaticon-beach "></i></a></li>
+              </ul>
+              <p>Loves traveling to combine activities with relaxation. Knows Asia the best. Dealbreaker when is red tape to contend with! Usually travels to run marathons in new places.</p>
+              <dl class="traveller-info text-center">
+                <dt><i class="fi flaticon-buildings"></i></dt>
+                <dd>England</dd>
+                <dt><i class="fi flaticon-pin"></i></dt>
+                <dd>Singapore</dd>
+                <dt><i class="fi flaticon-medical"></i></dt>
+                <dd>Experienced traveller</dd>
+              </dl>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <ul class="post-list photo-list traveller-list">
+          <li>
+            <a href="/blog/author/sam/">
+              <div class="post-grabber" style="background-image: url('/img/bibbulmun/bibbulmun3.jpg');">
+              </div>
+            </a>
+            <div class="post-details post-meta">
+              <a class="lead" href="/blog/author/sam/">Sam</a>
+              {% include follow.html %}
+              <hr class="less-margin" />
+              <ul class="list-inline" id="traveller-icons">
+                <li><a href="/blog/tag/hiking/"><i class="fi flaticon-hiking "></i></a></li>
+                <li><a href="/blog/tag/camping/"><i class="fi flaticon-camping "></i></a></li>
+                <li><a href="/blog/tag/national-parks/"><i class="fi flaticon-national-park "></i></a></li>
+              </ul>
+              <p>Loves traveling to surf, camp and hike. Knows Australasia the best. Dealbreaker when there are kids or generators at the campsite! Usually travels for long weekend getaways.</p>
+              <dl class="traveller-info text-center">
+                <dt><i class="fi flaticon-buildings"></i></dt>
+                <dd>Sunny North Devon, UK</dd>
+                <dt><i class="fi flaticon-pin"></i></dt>
+                <dd>Western Australia</dd>
+                <dt><i class="fi flaticon-medical"></i></dt>
+                <dd>Experienced traveller</dd>
+              </dl>
+
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include small-hero.html %}

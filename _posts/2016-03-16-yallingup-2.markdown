@@ -1,0 +1,49 @@
+---
+layout: post
+title:  " A relaxing week in Yallingup, Western Australia"
+date:   2016-03-16 09:02:57
+categories: yallingup
+category-name: [Yallingup]
+tags: [wine, beach, surfing]
+author: Ash W
+author-username: ash-w
+image: /ashw/1.jpg
+---
+
+{% include tags-content.html %}
+
+**The Trip &mdash;** A relaxing week in Yallingup
+
+**Duration &mdash;** 7 Nights
+
+**Origin &mdash;** Perth
+
+**Type of Trip&mdash;** {{ tags_content }}
+
+**Trip Dates and Average Temperature&mdash;** Australian summer 2016
+
+**Mode of Transportation &mdash;** Car
+
+**Cost &mdash;** mid-range trip
+
+**Accommodation &mdash;** Yallingup Beach Holiday Park
+
+**Main Activities &mdash;** Wine tasting, exploring the beaches, surfing, relaxing on the beach.
+
+**Food and Drink Highlights &mdash;** Eagle Bay Brewery, Knee Deep Winery, Laurance Estate, Caves House, BBQ overlooking Yallingup Beach
+
+<hr />
+
+### Tips for other travellers
+
+**You could do this trip from anywhere between 3 to 10 days.**
+
+![Ash in Yallingup](/img/ashw/2.jpg)
+
+We were after a relaxing time so instead of camping decided to stay in the fully serviced chalets. You can take your own food as you have your own kitchen and the BBQ facilities in the park overlook the beautiful ocean. Wake up, go to the beach, go to a winery for some lunch, then spend the afternoon back at the beach before cooking up a BBQ for dinner and watch the waves roll in, or head to Caves House for some live music. Pack sunscreen, extra beach towels and a good book. A great getaway for couples, groups and families.
+
+![Ash in Yallingup](/img/ashw/3.jpg)
+
+![Ash in Yallingup](/img/ashw/4.jpg)
+
+![Ash in Yallingup](/img/ashw/6.jpg)

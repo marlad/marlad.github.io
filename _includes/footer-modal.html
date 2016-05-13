@@ -1,0 +1,43 @@
+
+<span>
+
+
+  <!-- Button trigger modal -->
+  <p><button type="button" class="btn btn-link btn-sm" data-toggle="modal" data-target="#footerModal">
+    Join the Uproute newsletter!
+  </button></p>
+
+  <!-- Modal -->
+  <div class="modal fade" id="footerModal" tabindex="-1" role="dialog" aria-labelledby="footerModalLabel">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content text-left">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title" id="footerModalLabel">Join the Uproute Newsletter!</h4>
+        </div>
+        <div class="modal-body">
+          <p>To stay up to date with all things Uproute, leave us your email here:</p>
+
+          <!-- Requires submitMailchimp.js which is based on this - https://github.com/rydama/mailchimp-ajax-signup/blob/master/ajax-subscribe.html -->
+
+          <form id="subscribe-form" action="http://uproute.us12.list-manage.com/subscribe/post-json?u=f94bb6fd3827dbeac084419cb&amp;id=e604fc132e" method="get" class="uproute-modal-signup">
+
+            <label for="emailSignup">Email Address </label>
+            <input type="email" placeholder="e.g. hansolo@gmail.com" value="" name="EMAIL" id="emailSignup" >
+
+            <p id="subscribe-result"></p>
+
+            <input class="btn btn-special" type="submit" value="Keep Me Updated" name="subscribe">
+
+          </form>
+
+          <p>We promise never to spam you, and you'll be the first to hear when we're out of beta mode and all the buttons work :)</p>
+
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</span>

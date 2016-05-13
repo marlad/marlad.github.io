@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="wrapper" id="shorty">
+
+  <h2>Itineraries posted by {{ page.author }}</h2>
+  <hr />
+
+  <div>
+
+    <ul class="post-list photo-list">
+      {% for post in site.posts do %}
+        {% if post.author == page.author %}
+        <li>
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            <div class="post-grabber" style="background-image: url('/img/{{ post.image }}');">
+              <h2>{{ post.title }}</h2>
+            </div>
+          </a>
+          <div class="post-details post-meta">
+            <a  href="/blog/author/{{ post.author-username }}/">{{ post.author }}</a>
+            <span class="text-right">{{ post.date | date: "%b %-d, %Y" }}</span>
+          </div>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+  </div>
+
+</div>

@@ -1,0 +1,27 @@
+---
+layout: page-alt
+title: Four Oh Four!
+permalink: /404.html
+image-overlay: 404
+---
+
+<div class="block">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-offset-2 col-md-8">
+        <p class="lead">404 - Sorry, this page doesn't exist!</p>
+        <p>Are you looking for one of these?</p>
+        <ul class="post-list list-inline footer-list small">
+          {% for page in site.pages %}
+            {% if page.menu == 'main' or page.menu == 'secondary' %}
+              <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+              <li>&middot;</li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include small-hero.html %}

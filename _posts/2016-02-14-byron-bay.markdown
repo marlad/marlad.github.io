@@ -1,0 +1,113 @@
+---
+layout: post
+title:  "40th Birthday in Byron Bay"
+date:   2016-02-14 09:02:57
+categories: Byron Bay
+category-name: [Byron-Bay]
+tags: [birthday, beach, airbnb, group, surfer-chic]
+author: Marla D
+author-username: marla
+image: /Byron Bay/byronview.jpg
+---
+
+{% include tags-content.html %}
+
+**The Trip &mdash;** 40th birthday celebration in Byron Bay with a group of 10 from all over Asia
+
+**Duration &mdash;** 3 days
+
+**Origin &mdash;** Perth
+
+**Type of Trip&mdash;** {{ tags_content }}
+
+**Average temperature&mdash;** low 30s with a spattering of rain on Saturday which made our sparkling wine that much more enjoyable
+
+**Mode of Transportation &mdash;** Jetstar from Perth to Goldcoast airport and a Holden Storm rental from Hertz
+
+**Cost &mdash;** about $400 / person for flights, $180 for the car rental, $400 / person for food, accommodation was covered by our generous host
+
+**General Route &mdash;** Red eye flight on Thursday, beach on Friday, Newrybar visit and BBQ on Saturday, recovery, beach and departures on Sunday
+
+**Accommodation &mdash;** 2 nights at the Ayana Holiday House (airbnb)
+
+**Main Activities &mdash;** beach, dining and a significant amount of celebrating
+
+**Food and drink Highlights &mdash;** Beach Cafe, Beach Hotel, Graze at Elements Resort, Harvest Cafe, Bay Seafood Market, Trevor Mead butcher, Top Shop  
+
+**Essential Packing for this Trip &mdash;** ibuprofen
+
+
+<hr />
+
+### Ratings
+
+**Rate the overall trip &mdash;** 9/10 Great company in a gorgeous part of the world. If I could have spent a few more days there I may have given it a 10.
+
+**Rate the activity on your trip &mdash;** 8/10 Despite our best intentions, eating and drinking were really the only activities. Nevertheless, we ate and drank very well.
+
+**Rate the ease of logistics &mdash;** 9/10 Very easy. From Goldcoast airport Byron Bay is only a 50 minute drive. Getting around Byron Bay itself is very easy and very walkable.
+
+**Luxury factor &mdash;** 7/10 Our accommodation at Ayana private residence was fit for millionaires due to its location and interior design. Other than that, Byron Bay is decidedly more boho/surfer chic than luxury and we indulged accordingly.
+
+<hr />
+
+### About The Traveller
+
+**Age <br />** 34
+
+**Gender <br />** Female
+
+**I'm from <br />** the Canadian Rockies
+
+**My favourite trip as of late <br />** beach and culture in Sri Lanka last year
+
+**I often travel… <br />** For work, and then extend my trip to explore
+
+**I would class myself as <br />** an experienced traveller
+
+**I regularly go on the following types of trips <br />** Culture, sporty, beach, gourmet, relax
+
+**It's a dealbreaker when <br />** my accommodation or the restaurant is dirty
+
+**Continent I know the best <br />** Asia
+
+
+
+![Ayana Private Residence Byron Bay](/img/Byron Bay/ayana.jpg "Ayana Private Residence Byron Bay")
+
+![Birds at Byron Bay](/img/Byron Bay/birds2.jpg "Birds at Byron Bay")
+
+
+
+### Our Experience
+**A group of 10 of us convened in Byron Bay from Shanghai, Melbourne, Perth, Singapore and Hong Kong to celebrate our dear friend's 40th birthday.**  
+
+He generously booked the Ayana private residence (166A Lighthouse Road) months in advance for the weekend and when all of his guests RSVP'd, he also booked Byron Breeze 7 just down the road (110 Lighthouse Road). Ayana is owned by a couple who are interior designers and their attention to detail on this holiday rental was much appreciated. As was the large balcony and outdoor bbq and second patio with a cool hot tub. Ayana is suitable for 8 but we divided into 6 at Ayana and 4 at Byron Breeze 7.
+
+Friday, as guests arrived from around the continent, we had lunch just down the street at Beach Cafe, which is one of my favourite beach restaurants for a cool breeze and lovely food. Most of us ordered the snapper for lunch and it was cooked perfectly. After lunch we strolled along the beach with the intention of walking to the brewery, but when the Beach Hotel came into sight, we quickly opted for less walking and more drinking.
+
+We stopped in the bottle shop next door to stock up on alcohol for the house. The guys at the shop kindly gave us a 10% discount on our 'bulk' order and booked a bus taxi to come and pick us up. With a bit of advance notice they will deliver your order to your house. We freshened up at home, sabered a bottle of champagne and then had a lovely dinner at the recently opened Elements Resort, Graze restaurant. The food was quite good, the best plates being the larger sharing dishes like lamb shank and they allowed us to bring our own birthday cake (which deserves a mention as it was quite special - ordered and delivered by Sweet Obsessions near Byron Bay). After dinner they were in no rush to kick us out, so we enjoyed a dessert wine around their large outdoor fire. Even sweeter than the dessert wine was to receive the final bill which amounted to $120 per person.
+
+Saturday we took a 30 minute drive to the nearby town of Newrybar for brunch at the fabulous Harvest Cafe. The town appears to be one small street of wooden cottages converted into antique shops, local provisions, a design shop and Harvest Cafe. It was a lovely little place to explore for a few hours using the verandah of the Harvest Cafe with a chilled bottle of Tasmanian sparkling wine as our base. I could have spent hours in the Newrybar Merchants shop choosing things to buy. Best to make a reservation at Harvest, and note that their kitchen closes for breakfast orders at 11:30am.
+
+![Harvest Cafe Newrybar](/img/Byron Bay/harvestcafe.jpg "Harvest Cafe Newrybar")
+
+![Newrybar Merchants](/img/Byron Bay/newrybar.jpg "Newrybar Merchants")
+
+Next it was back to town to buy groceries for our BBQ. We decided to enjoy our large balcony at Ayana that evening, and loaded up on fresh seafood from Bay Seafood Market and amazing meats from Trevor Mead butcher in town. We tried to hire a couple of longboards and SUPs as well, but weren't able to find a shop that would deliver straight to the beach for us. So we all enjoyed a few final sober hours on the beach before kicking off the BBQ.
+
+Sunday proved even a challenge for the most active of the group - all bicycles, surf boards and running shoes stayed as they were. We had the perfect hangover brunch just up the street at Top Shop (don't get the fish burger) and then settled happily on the beach for the rest of the day until it was time to drive back to Goldcoast for our flights. There was no traffic on the M1 and there is a gas station right after the airport turnoff making it easy to refuel rental cars.
+
+
+
+![Top Shop Byron Bay](/img/Byron Bay/topshop.jpg "Top Shop Byron Bay")
+
+![Queensland Landscape](/img/Byron Bay/byronlandscape.jpg "Queensland Landscape")
+
+
+### Why We Loved It
+It's hard not to love a scenic, walkable getaway, where the quickest route often involves walking along the beach. The laid back, surfer-chic vibe of Byron Bay also seemed to provide the perfect context for our group of successful professionals to easily put work out of mind for a couple of days and focus on chilling out and celebrating.
+
+
+### Drawbacks
+For a trip like this one, not enough time would naturally be one of the biggest drawbacks. Flying the redeye times helps to maximise a short amount of time but the consequence is you start and finish your trip a little bit on the sluggish side. It's worth paying more to have the front row bulkhead seats on the plane. Also, the group birthday present (a Chris Cincotta print) was broken on the return flight. A reminder to buy things with credit card insurance!   

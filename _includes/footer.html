@@ -1,0 +1,49 @@
+<footer class="site-footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-center">
+
+        <h2 class="footer-heading">{{ site.title }}</h2>
+
+        <ul class="post-list list-inline footer-list small hidden-xs">
+          {% for page in site.pages %}
+            {% if page.menu == 'main' or page.menu == 'secondary' and page.title != 'Submit' %}
+              <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+              <li>&middot;</li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+
+        <ul class="post-list footer-list small visible-xs">
+          {% for page in site.pages %}
+            {% if page.menu == 'main' or page.menu == 'secondary' and page.title != 'Submit' %}
+              <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+              <li>&middot;</li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+
+        <p class="subtle small">&copy; Uproute.co &mdash; 2016 and beyond...</p>
+
+        {% include footer-modal.html %}
+
+        <p class="small">Made with <i class="fa fa-heart-o"></i> <a href="http://mead.fm" target="_blank">in WA</a></p>
+
+        <!--
+        <p class="small hidden">Special thanks to
+          <a href="http://www.unsplash.com" target="_blank">Unsplash</a>,
+          <a href="http://www.mattboldt.com/demos/typed-js/" target="_blank">Matt Boldt</a>,
+          <a href="http://www.jekyllrb.com/" target="_blank">Jekyll</a>,
+          <a href="http://www.getbootstrap.com/" target="_blank">Bootstrap</a>,
+          <a href="http://www.fortawesome.com/" target="_blank">Fort Awesome</a>, and
+          <a href="http://www.flaticon.com" target="_blank">Flat Icon</a>
+
+          for awesome resources!
+        </p>
+        -->
+      </div>
+    </div>
+  </div>
+
+</footer>

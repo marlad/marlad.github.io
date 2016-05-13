@@ -1,0 +1,30 @@
+
+<span>
+
+
+  <!-- Button trigger modal -->
+  <button type="button" class="btn btn-special btn-sm no-margin" data-toggle="modal" data-target="#addtolistModal">
+    Add to List
+  </button>
+
+  <!-- Modal -->
+  <div class="modal fade" id="addtolistModal" tabindex="-1" role="dialog" aria-labelledby="addtolistModalLabel">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title" id="addtolistModalLabel">Sign Up for Early Access</h4>
+        </div>
+        <div class="modal-body">
+          <p>Uproute is currently in Beta! This means some features aren't fully functional yet, like the ability to add posts to lists. We can let you know as soon as this feature is ready if you leave us your email here:</p>
+
+          {% include newsletterSignupForm.html %}
+
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</span>
