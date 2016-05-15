@@ -1,6 +1,6 @@
 ---
 layout: travellers
-author: Body Language
+author: Body-Language
 permalink: /blog/author/bodylanguage/
 image: /bodylanguage/blphotohero.jpg
 genderage: SEX, 20 - 29
