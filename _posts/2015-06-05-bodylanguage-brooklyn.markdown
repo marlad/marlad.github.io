@@ -8,6 +8,7 @@ tags: [dancing, bars, music]
 author: Body Language
 author-username: body-language
 image: /bodylanguage/blwall2.jpg
+align: top
 rac: no
 permalink: /bodylanguage-weekendinbrooklyn
 accommodation: Wythe Hotel, NU Hotel

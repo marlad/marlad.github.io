@@ -1,6 +1,6 @@
 ---
 layout: newpost
-title:  "7 nights, 5 cities US Tour"
+title:  "7 nights, 5 cities: Body Language US Tour"
 date:   2015-05-05 12:15:00 +0800
 categories: brooklyn, philly, la, san-diego, san-francisco
 category-name: [Brooklyn, Philadelphia, Los Angeles, San Diego, San Francisco]
@@ -8,6 +8,7 @@ tags: [dancing, bars, music]
 author: Body Language
 author-username: body-language
 image: /bodylanguage/blphotohero.jpg
+align: top;
 rac: no
 permalink: /bodylanguage-ustour
 

@@ -22,7 +22,7 @@ image-overlay: Uproute Itineraries
         <div class="col-md-6 col-sm-12">
           <li>
             <a href="{{ post.url | prepend: site.baseurl }}">
-              <div class="post-grabber" style="background-image: url('/img{{ post.image }}');">
+              <div class="post-grabber" style="background-image: url('/img{{ post.image }}'); {% if post.align %}background-position: top;{% endif %}">
                 <h2>{{ post.title }}</h2>
               </div>
             </a>

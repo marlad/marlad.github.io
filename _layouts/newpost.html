@@ -6,7 +6,7 @@ layout: default
 
 {% include tags-content.html %}
 
-<div class="feature-image" style="background-image: url('/img/{{ page.image }}');">
+<div class="feature-image" style="background-image: url('/img/{{ page.image }}'); {% if page.align %}background-position: top;{% endif %}">
   <div class="container">
     <div class="row">
       <div class="col-md-12 post-header">
